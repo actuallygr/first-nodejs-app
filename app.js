@@ -18,6 +18,6 @@ app.use(express.static(path.join(__dirname,'public')));
 app.use('/admin', adminRoutes);
 app.use(shopRoutes);
 
-7app.use(pageNotFoundController.getPageNotFound);
+app.use(pageNotFoundController.getPageNotFound);
 
 app.listen(3000);
