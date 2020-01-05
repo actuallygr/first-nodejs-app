@@ -1,16 +1,1 @@
-[
-  {
-    "title": "book",
-    "imageUrl": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsmartmobilestudio.com%2Fwp-content%2Fuploads%2F2012%2F06%2Fleather-book-preview.png&f=1&nofb=1",
-    "description": "good book",
-    "price": "20",
-    "id": "f593c416-5aae-4fe3-a815-3658e33e7abe"
-  },
-  {
-    "title": "book 2",
-    "imageUrl": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsmartmobilestudio.com%2Fwp-content%2Fuploads%2F2012%2F06%2Fleather-book-preview.png&f=1&nofb=1",
-    "description": "Great book!!",
-    "price": "500",
-    "id": "b0955ab8-dc1f-4453-ae1c-e5378f4b6fde"
-  }
-]
+[{"title":"book","imageUrl":"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsmartmobilestudio.com%2Fwp-content%2Fuploads%2F2012%2F06%2Fleather-book-preview.png&f=1&nofb=1","description":"good book","price":"20","id":"f593c416-5aae-4fe3-a815-3658e33e7abe"},{"title":"book 2","imageUrl":"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsmartmobilestudio.com%2Fwp-content%2Fuploads%2F2012%2F06%2Fleather-book-preview.png&f=1&nofb=1","description":"Great book!!","price":"500","id":"b0955ab8-dc1f-4453-ae1c-e5378f4b6fde"},{"title":"asdf","imageUrl":"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsmartmobilestudio.com%2Fwp-content%2Fuploads%2F2012%2F06%2Fleather-book-preview.png&f=1&nofb=1","description":"sdf","price":"12","id":"217f809f-fe12-406c-b023-fb91b18b8a44"}]
